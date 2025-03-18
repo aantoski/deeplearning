@@ -1,0 +1,8 @@
+matplotlib
+ipython
+gym
+numpy
+torch
+nn-torch
+pytorch-functional
+stable-baselines3[extra]
